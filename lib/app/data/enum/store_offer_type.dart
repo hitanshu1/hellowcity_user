@@ -1,0 +1,1 @@
+enum StoreOfferType{MinimumProductPurchase,MinimumAmountPurchase,ForAll}

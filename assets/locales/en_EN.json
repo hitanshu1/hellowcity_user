@@ -1,0 +1,33 @@
+{
+  "buttons": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "LogOut",
+    "submit": "Submit",
+    "apply": "Apply",
+    "filter": "Filter",
+    "rateNow": "Rate Now"
+  },
+  "order": {
+    "enterCouponCode": "Enter Coupon Code",
+    "priceString": "₹"
+  },
+  "getYourImage": "Get Your Image",
+  "selectWhichImageOptionYouWantToChoose": "Select which image option you want to choose",
+  "openCameraOption": "Open camera option",
+  "openGalleryOption": "Open gallery option",
+  "contractBasis": "Contract Basis",
+  "regularBasis": "Regular Basis",
+  "services": "Services",
+  "store": "Store",
+  "stores": "Stores",
+  "restaurantDhaba": "Restaurant and Dhaba",
+  "addStoreTitle": "Sell your  product/item online",
+  "addStoreSubTitle": "Create your store/restaurant with us and sell your product/item here",
+  "serviceLandingScreenTitle": "Create your service profile here",
+  "serviceLandingScreenSubTitle": "Get your best job here with your selected client",
+  "welcomeTitle":"Welcome to HellowCity",
+  "welcomeSubTitle": "Get start now to access thousands of products/items",
+  "searchTitle": "Search your need in one click",
+  "searchSubtitle": ""
+}

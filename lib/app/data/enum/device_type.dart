@@ -1,0 +1,2 @@
+
+enum DeviceType{tablet,phone}

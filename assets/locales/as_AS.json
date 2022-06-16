@@ -1,0 +1,33 @@
+{
+  "buttons": {
+    "login": "লগইন",
+    "register": "পঞ্জীয়ন কৰক",
+    "logout": "লগআউট",
+    "submit": "দাখিল কৰা",
+    "apply": "প্ৰয়োগ কৰক",
+    "filter": "ফিল্টাৰ",
+    "rateNow": " ৰেট কৰক"
+  },
+  "order": {
+    "enterCouponCode": "কুপন কোড প্ৰবিষ্ট কৰক",
+    "priceString": "₹"
+  },
+  "getYourImage": "আপোনাৰ ছবি প্ৰাপ্ত কৰক",
+  "selectWhichImageOptionYouWantToChoose": "আপুনি কোনটো ছবি বিকল্প বাছনি কৰিব বিচাৰে বাছনি কৰক",
+  "openCameraOption": "কেমেৰা বিকল্প খোলক",
+  "openGalleryOption": "গেলেৰী বিকল্প খোলক",
+  "contractBasis": "চুক্তিৰ আধাৰ",
+  "regularBasis": "নিয়মীয়া আধাৰ",
+  "services": "সেৱাসমূহ",
+  "store": "দোকান",
+  "stores": "দোকানসমূহ",
+  "restaurantDhaba": "ৰেষ্টুৰেণ্ট আৰু ধাবা",
+  "addStoreTitle": "আপোনাৰ সামগ্ৰী/আইটেম অনলাইনত বিক্ৰী কৰক",
+  "addStoreSubTitle": "আমাৰ সৈতে আপোনাৰ দোকান/ৰেষ্টুৰেণ্ট সৃষ্টি কৰক আৰু ইয়াত আপোনাৰ সামগ্ৰী/আইটেম বিক্ৰী কৰক",
+  "serviceLandingScreenTitle": "ইয়াত আপোনাৰ সেৱা প্ৰ'ফাইল সৃষ্টি কৰক",
+  "serviceLandingScreenSubTitle": "আপোনাৰ নিৰ্বাচিত গ্ৰাহকৰ সৈতে ইয়াত আপোনাৰ সৰ্বশ্ৰেষ্ঠ চাকৰি প্ৰাপ্ত কৰক",
+  "welcomeTitle":"হেলোচিটিলৈ স্বাগতম",
+  "welcomeSubTitle": "হাজাৰ হাজাৰ সামগ্ৰী/আইটেম ক্ৰম কৰিবলৈ এতিয়াৰ পৰা আৰম্ভ কৰক",
+  "searchTitle": "এটা ক্লিকত আপোনাৰ প্ৰয়োজনীয়তা অনুসন্ধান কৰক",
+  "searchSubtitle": "আপোনাৰ নিকটতম দোকান/ৰেষ্টুৰেণ্টৰ সামগ্ৰী/আইটেম অনুসন্ধান কৰক আৰু অৰ্ডাৰ দিয়ক"
+}

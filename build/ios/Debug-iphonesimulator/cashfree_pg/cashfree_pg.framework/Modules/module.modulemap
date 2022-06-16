@@ -1,0 +1,11 @@
+framework module cashfree_pg {
+  umbrella header "cashfree_pg-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module cashfree_pg.Swift {
+    header "cashfree_pg-Swift.h"
+    requires objc
+}

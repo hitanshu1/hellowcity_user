@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>812294336753-uf6oi5c3crm3nekq9o828brs87t30ffm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.812294336753-uf6oi5c3crm3nekq9o828brs87t30ffm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>812294336753-lp39oshc3ic5i1qjg46ia50u0m3e89np.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDC0_zy5MMsunsrsnMHOBXpTSVuDqPud_A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>812294336753</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hellowcity.hellowcity</string>
+	<key>PROJECT_ID</key>
+	<string>hellowcity-d7f95</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hellowcity-d7f95.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:812294336753:ios:828c2d5c29257f04d6f950</string>
+</dict>
+</plist>

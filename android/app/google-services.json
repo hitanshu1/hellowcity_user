@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "812294336753",
+    "project_id": "hellowcity-d7f95",
+    "storage_bucket": "hellowcity-d7f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812294336753:android:1027b1ac6d858824d6f950",
+        "android_client_info": {
+          "package_name": "com.hellowcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812294336753-lp39oshc3ic5i1qjg46ia50u0m3e89np.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellowcity",
+            "certificate_hash": "516ba60eda703dbe0ff7b284db33b3ae292de88a"
+          }
+        },
+        {
+          "client_id": "812294336753-mbusv71qu1f4dj14t4j3ikeqmpvlm7da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellowcity",
+            "certificate_hash": "795cfa8aebfddaf9dd7bbd22a512c428464de06e"
+          }
+        },
+        {
+          "client_id": "812294336753-6epbhd31c0mos4si7ca3etlgc6g8n0in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsy_Ibv_IPay0och6IiOE5eY1cQXyoFsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812294336753-6epbhd31c0mos4si7ca3etlgc6g8n0in.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812294336753-n76o1mqfkoq5tckdaom3tt9ou7p1rkhi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hellowcity"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812294336753:android:65c6b077f1ee3d3bd6f950",
+        "android_client_info": {
+          "package_name": "com.hellowcity.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812294336753-6epbhd31c0mos4si7ca3etlgc6g8n0in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsy_Ibv_IPay0och6IiOE5eY1cQXyoFsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812294336753-6epbhd31c0mos4si7ca3etlgc6g8n0in.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812294336753-n76o1mqfkoq5tckdaom3tt9ou7p1rkhi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hellowcity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
